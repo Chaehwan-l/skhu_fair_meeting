@@ -1,6 +1,6 @@
 # fair_front
 
-A new Flutter project.
+SKHU CAPSTONE DESIGN
 
 ## Getting Started
 
